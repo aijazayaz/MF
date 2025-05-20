@@ -1,0 +1,6 @@
+State_Id, Statename
+1,Maharashtra
+2,Andhra Pradesh
+3,Telangana
+4,Tamil Nadu
+5,Uttar Pradesh
