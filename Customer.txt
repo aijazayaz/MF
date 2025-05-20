@@ -1,0 +1,11 @@
+Cust_Id,FName,LName,Address,CIty_Id
+1,Rohit,Sharma,Bandra,1
+2,SuryaKumar,Yadav,Juhu,1
+3,Kedar,Jadhav,Kothrud,2
+4,Ruturaj,Gaikwad,Aundh,2
+5,Hanuma,Vihari,Madhurawada,3
+6,Prithvi,Raj,MVP Colony,3
+7,Nitish,Kumar,Bharti Nagar,4
+8,Maheep,Kumar,Gayatri Nagar,4
+9,Mohammed,Siraj,Mehdi Patnam,5
+10,Pragyan,Ojha,Banjara Hill,5
