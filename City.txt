@@ -1,0 +1,11 @@
+city_id, State_Id, City_Name
+1,1,Mumbai
+2,1,Pune
+3,2,Vizag
+4,2,Vijayawada
+5,3,Hyderabad
+6,3,Kamareddy
+7,4,Chennai
+8,4,Madurai
+9,5,Lucknow
+10,5,Kanpur
