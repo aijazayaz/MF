@@ -1,4 +1,4 @@
-State_Id, Statename
+State_Id,Statename
 1,Maharashtra
 2,Andhra Pradesh
 3,Telangana
